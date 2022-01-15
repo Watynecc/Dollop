@@ -1,7 +1,7 @@
 ## **Dollop**
 
 
-Dollop is a snake game like with Powerup and ennemy 
+Dollop is a snake game like with Powerup and enemy 
 Made with Python and Pygame
 
 This's my frist Project so for this game I choose Python and Pygame because they
